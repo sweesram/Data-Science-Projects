@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+fastapi 
+uvicorn #used to run worked in windows 
+gunicorn==19.9.0 # used to run in linux
+ipykernel
+httptools #used for fast api
